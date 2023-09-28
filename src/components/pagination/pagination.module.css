@@ -13,7 +13,7 @@
 .item{
     height: 45px;
     width: 45px;
-    color: green;
+    color: lightslategray;
     display: flex;
     justify-content: center;
     align-items: center;
