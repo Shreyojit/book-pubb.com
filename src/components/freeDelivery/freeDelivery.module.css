@@ -1,0 +1,8 @@
+.freeDelivery{
+    padding: 0.5rem 0;
+    text-align: center;
+    width: 100%;
+    background-color: var(--primary-color-darker);
+    color: rgb(168, 168, 168);
+    font-size: 12px;
+}
